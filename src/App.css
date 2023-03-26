@@ -1,0 +1,25 @@
+.App {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30%;
+}
+
+.space1 {
+    background-image: url('/images/space1.jpg');    
+}
+
+.space2 {
+    background-image: url('/images/space2.jpg');    
+}
+
+.space3 {
+    background-image: url('/images/space3.jpg');    
+}
+
+.space4 {
+    background-image: url('/images/space4.jpg');    
+}
