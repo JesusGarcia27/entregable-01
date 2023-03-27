@@ -16,6 +16,8 @@ const container = ({quote, handleNewQuote}) => {
 
         <Buttom handleNewQuote={handleNewQuote} />
 
+        <br /><br /><br /><br /><br />
+
           <article className='container_Article_2'> 
             <h4 className='container_source'>Source: {quote.author} </h4>
           </article>

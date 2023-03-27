@@ -6,7 +6,7 @@
     box-shadow: 3px 2px 3px #9F84C5;
     border-radius: 20px;
     animation: float 3s linear infinite;
-    display: block;
+    display: flex;
     margin: 0 auto;
     cursor: pointer;
     transition: background 0.5s ease;
